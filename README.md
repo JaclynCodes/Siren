@@ -1,4 +1,7 @@
 # Siren
+
+![Sealed in Trust](https://img.shields.io/badge/%F0%9F%96%8B-Sealed%20in%20Trust-gold?style=for-the-badge&labelColor=0C0C0C&color=D4AF37&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+PGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iNDUiIGZpbGw9IiNkNGFmMzciIHN0cm9rZT0iI2I4ODYwYiIgc3Ryb2tlLXdpZHRoPSIzIi8+PHBhdGggZD0iTTUwIDI1IFE2NSA0MCA1MCA3MCBRMzUgNDAgNTAgMjUgWiIgZmlsbD0iIzBDMEMwQyIvPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjUiIGZpbGw9IiMwQzBDMEMiLz48L3N2Zz4=)
+
 # 🗝️ Sovereign Archive  
 *A curated collection of symbolic artifacts, evolving scrolls, and mythic interfaces.*
 
